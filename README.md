@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cipi</h1>
 <h3 align="center">A passionate coder from Germany!</h3>
 
-<img align="right" alt="raining code in the matrix style" href="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cipivlad" alt="cipivlad" /></a> </p>
 
 - 🔭 I’m currently working on **a admin web-app for Bnb's**
