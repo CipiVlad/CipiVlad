@@ -1,8 +1,8 @@
+[![MasterHead](https://cdn.pixabay.com/photo/2016/11/05/08/23/matrix-1799661_1280.jpg)](https://github.com/CipiVlad)
+
+
 <h1 align="center">Hi 👋, I'm Cipi</h1>
 <h3 align="center">A passionate coder from Germany!</h3>
-
-<img align="center" width="500px" alt="raining code in the matrix style" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752"/>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cipivlad" alt="cipivlad" /></a> </p>
 
 - 🔭 I’m currently working on **a admin web-app for Bnb's**
