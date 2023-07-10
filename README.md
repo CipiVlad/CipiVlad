@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a admin web-app for Bnb's**
 
-- 🌱 I’m currently learning **MERN-Stack Projects, Web-App Pentesting as well as CyberSecurity topics in general. Besides I try to transport my skills to python and php.**
+- 🌱 I’m currently learning **MERN-Stack Projects, TypeScript as well as NextJS. Besides I'm interested in Python, PHP, Web-App Pentesting as well as CyberSecurity topics in general.**
 
 - 👨‍💻 All of my projects are available at [examplelink](examplelink)
 
