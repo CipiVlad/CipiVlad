@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN-Stack Projects, TypeScript as well as NextJS. Besides I'm interested in Python, PHP, Web-App Pentesting as well as CyberSecurity topics in general.**
 
-- 👨‍💻 All of my projects are available at [examplelink]( https://cipivlad.github.io/myportfoliosite/)
+- 👨‍💻 All of my projects are available [here.]( https://cipivlad.github.io/myportfoliosite/)
 
 - 💬 Ask me about **the MERN-Stack**
 
