@@ -5,15 +5,15 @@
 <h3 align="center">A passionated coder from Germany!</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cipivlad" alt="cipivlad" /></a> </p>
 
-- 🔭 I’m currently working on **a admin web-app for Bnb's**
+- 🔭 I’m currently working on **leveling up my skills**
 
-- 🌱 I’m currently learning **MERN-Stack Projects, TypeScript as well as NextJS. Besides I'm interested in Python, PHP, Web-App Pentesting as well as CyberSecurity topics in general.**
+- 🌱 I’m currently learning **MERN-Stack Projects with TypeScript.**
 
 - 👨‍💻 Some of my projects are available [here.]( https://cipivlad.github.io/myportfoliosite/)
 
 - 💬 Ask me about **the MERN-Stack**
 
-- ⚡ Fun fact **Have you ever thought about the fact that when you look at an apple, you can never see it in its entirety? ... but you can at least eat it in its entirety.**
+- ⚡ Fun fact **The average person's left hand does 56% of the typing (when using the proper position of the hands on the keyboard; Hunting and pecking doesn't count!).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
