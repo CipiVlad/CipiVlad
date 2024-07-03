@@ -29,3 +29,4 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cipivlad&show_icons=true&theme=dark&locale=en" alt="cipivlad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cipivlad&theme=dark" alt="cipivlad" /></p>
+<a href="https://app.daily.dev/nightsweeper"><img src="https://api.daily.dev/devcards/v2/fQJvDv1LRKTx7uuPBHNTb.png?type=default&r=iji" width="356" alt="Cipi's Dev Card"/></a>
