@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN-Stack Projects with TypeScript.**
 
-- 👨‍💻 Some of my projects are available [here.]( https://cipivlad.github.io/myportfoliosite/)
+- 👨‍💻 Some of my projects are available [here.]( https://cipi-dev.netlify.app/)
 
 - 💬 Ask me about **the MERN-Stack**
 
